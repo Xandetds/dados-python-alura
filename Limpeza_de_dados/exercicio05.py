@@ -9,4 +9,8 @@ df_temperaturas = pd.DataFrame({   #cria uma base de para testar numeros nulos e
 
 df_temperaturas["preenchido_ffill"] = df_temperaturas["Temperatura"].ffill()
 
+
+df_temperaturas["preenchido_bfill"] = df_temperaturas["Temperatura"].bfill()
+
+
 print(df_temperaturas)
