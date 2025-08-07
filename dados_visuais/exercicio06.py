@@ -24,5 +24,7 @@ fig = px.pie(remoto_contagem,
             )
 
 fig.update_traces(textinfo= "percent+label")
-fig.show()
 
+fig.write_html("salario_por_senioridade.html") # Salva o gráfico em um arquivo HTML
+import webbrowser # Importa a biblioteca para abrir o navegador
+webbrowser.open("salario_por_senioridade.html")
