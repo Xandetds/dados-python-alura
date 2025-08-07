@@ -17,7 +17,7 @@ remoto_contagem = df_limpo["remote_ratio"].value_counts().reset_index()
 remoto_contagem.columns = ["tipo_tabalho", "quantidade"]
 
 fig = px.pie(remoto_contagem,
-            names= "tipo_trabaalho",
+            names= "tipo_trabalho",
             values= "quantidade",
             title= "Proporção dos tipos de trabalho",
             hole= 0.5 #vai de pizza pra rosca
