@@ -8,6 +8,12 @@
 
 📚 Repositório com os **exercícios e projetos práticos** da Imersão Dados com Python da Alura.
 
+## 🚀 Projeto Final
+
+<p align="center">
+  <h3>📊 <a href="https://dashboard-xandetds.streamlit.app/">Acessar Dashboard Interativo (Streamlit)</a> </h3>
+</p>
+
 ---
 
 ## 📌 Sobre a Imersão
