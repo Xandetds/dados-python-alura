@@ -48,7 +48,11 @@ Adquirir habilidades práticas em análise de dados com Python, desde a manipula
 
 ## 📜 Certificado
 
-<p>O certificado estará disponível para download após a conclusão da imersão.</p>
+<p align="center">
+  <a href="https://cursos.alura.com.br/immersion/imersao-dados-python/user/alexandretibes9/certificate" target="_blank">
+    <img src="certificado_alura.png" alt="Certificado Alura - Imersão Dados com Python" width="600px">
+  </a>
+</p>
 
 ---
 
