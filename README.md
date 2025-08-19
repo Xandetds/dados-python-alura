@@ -2,7 +2,7 @@
 
 [![Linguagem](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 &nbsp;
-[![Status](https://img.shields.io/badge/Status-Em%20Andamento-yellow?style=for-the-badge)]()
+[![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)]()
 &nbsp;
 [![Plataforma](https://img.shields.io/badge/Alura-Imers%C3%A3o%20Dados-orange?style=for-the-badge&logo=Alura&logoColor=white)](https://cursos.alura.com.br/imersao/imersao-dados-python)
 
